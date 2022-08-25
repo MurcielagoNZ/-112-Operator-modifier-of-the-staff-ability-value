@@ -1,4 +1,4 @@
-# -112-Operator-modifier-of-the-staff-ability-value
+# 112-Operator-modifier-of-the-staff-ability-value
 This is a modifier I wrote in C to change the staff ability value in the game. 
 
 No GUI because I'm lazy.
